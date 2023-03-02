@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @canercalskan
-- 👀 I’m interested in C++ , Html , Css , Javascript and Frontend Development
+
 - 📫 canercalskan8@gmail.com
 
 <!---
